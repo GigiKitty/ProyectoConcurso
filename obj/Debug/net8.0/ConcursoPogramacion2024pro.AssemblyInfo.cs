@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcursoPogramacion2024pro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b33c6b4cbf82eb8444a053bd148cba99f7c538e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcursoPogramacion2024pro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcursoPogramacion2024pro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
