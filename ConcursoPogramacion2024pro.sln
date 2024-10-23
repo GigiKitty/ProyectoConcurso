@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcursoPogramacion2024pro", "ConcursoPogramacion2024pro.csproj", "{B0782322-05D1-4EAC-AF04-0C4BD633EC49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0782322-05D1-4EAC-AF04-0C4BD633EC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0782322-05D1-4EAC-AF04-0C4BD633EC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0782322-05D1-4EAC-AF04-0C4BD633EC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0782322-05D1-4EAC-AF04-0C4BD633EC49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {493CC584-09CE-465E-9FAC-4648D10D748E}
+	EndGlobalSection
+EndGlobal
