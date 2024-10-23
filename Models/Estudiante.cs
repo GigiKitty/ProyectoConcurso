@@ -9,14 +9,14 @@ namespace ConcursoPogramacion2024pro.Models
 		public int IdEstudiante { get; set; }
 		[Required(ErrorMessage = "Campo requerido!")]
 
-		String NombreEstudiante { get; set; }
-		[Required (ErrorMessage ="Campo requerido!")]
+		public String NombreEstudiante { get; set; }
+		[Required(ErrorMessage = "Campo requerido!")]
 
-		String ApellidoEstudiante { get; set; }
-		[Required (ErrorMessage ="Campo requerido!")]
+		public String ApellidoEstudiante { get; set; }
+		[Required(ErrorMessage = "Campo requerido!")]
 
-		DateTime FechaNacimiento { get; set; }
-		[Required(ErrorMessage ="Campo requerido!")]
+		public DateTime FechaNacimiento { get; set; }
+		[Required(ErrorMessage = "Campo requerido!")]
 
 	}
 }

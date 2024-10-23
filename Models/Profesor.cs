@@ -6,16 +6,16 @@ namespace ConcursoPogramacion2024pro.Models
 	{
 		[Key]
 
-		int IdProfesor { get; set; }
+		public int IdProfesor { get; set; }
 		[Required (ErrorMessage ="Campo requerido!")]
 
-		String NombreProfesor { get; set; }
+		public String NombreProfesor { get; set; }
 		[Required (ErrorMessage = "Campo requerido!")]
 
-		String ApellidoProfesor { get; set; }
+		public String ApellidoProfesor { get; set; }
 		[Required(ErrorMessage = "Campo requerido!")]
 
-		String EmailProfesor { get; set; }
+		public String EmailProfesor { get; set; }
 		[Required(ErrorMessage ="Campo requerido!")]
 		[EmailAddress]
 
